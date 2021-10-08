@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshupuri0" alt="priyanshupuri0" /></a> </p>
 
-- 🔭 I’m currently working on **NSS WEBSITE DEVELOPMENT**
+- 🔭 I’m currently working on **NSS MMMUT WEBSITE DEVELOPMENT**
 
 - 👯 I’m looking to collaborate on **GITHUB**
 
