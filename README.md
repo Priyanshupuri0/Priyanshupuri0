@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshupuri0" alt="priyanshupuri0" /></a> </p>
 
-- 🔭 I’m currently working on **Wield The Web**
+- 🔭 I’m currently working on **NSS WEBSITE DEVELOPMENT**
 
-- 👯 I’m looking to collaborate on **codesmashers**
+- 👯 I’m looking to collaborate on **GITHUB**
 
 
 <h3 align="left">Languages and Tools:</h3>
